@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SPOT</string>
+    <string name="app_profile">Mon profil</string>
+    <string name="app_settings">Paramètres</string>
+    <string name="app_logout">Deconnexion</string>
+    <string name="app_orders">Fiches</string>
+    <string name="app_notification">Notifications</string>
+    <string name="app_inbox">Messages</string>
+    <string name="app_about">A propos</string>
+    <string name="app_collection">Mes fiches</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
